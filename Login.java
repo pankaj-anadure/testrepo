@@ -7,5 +7,6 @@ public class Login
 	public void password()
 	{
 		System.out.println("Password should be min of 6 letters");
+		System.out.println("Password should be max of 12 letters");
 	}
 }
